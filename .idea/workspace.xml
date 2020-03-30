@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37d000b5-09e2-4707-9510-d370a23e1166" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appv2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/appv2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="65" column="69" lean-forward="true" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
+            <state relative-caret-position="350">
+              <caret line="107" column="16" lean-forward="true" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
                 <element signature="e#389#644#0" />
@@ -40,6 +39,15 @@
                 <element signature="e#2804#2921#0" />
                 <element signature="e#3415#4392#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="103" column="14" lean-forward="true" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -71,6 +79,7 @@
       <list>
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/appv2.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -111,6 +120,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -240,8 +250,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/appv2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="65" column="69" lean-forward="true" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
+        <state relative-caret-position="350">
+          <caret line="107" column="16" lean-forward="true" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <element signature="e#389#644#0" />
@@ -252,6 +262,13 @@
             <element signature="e#2804#2921#0" />
             <element signature="e#3415#4392#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="103" column="14" lean-forward="true" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
         </state>
       </provider>
     </entry>
